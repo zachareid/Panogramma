@@ -24,5 +24,7 @@ If you do this, the program will automatically convert the images to a PNG file 
 
 
 <h1> TO-DO </h1>
+
 - Integrate with Instagram to post on your behalf
+
 - Envelope this functionality into a Flask app to be hosted somewhere (Heroku, AWS, etc)
